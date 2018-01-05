@@ -4,7 +4,7 @@ This is Terracrafts Star Wars Overhaul for King Arthurs Gold made with the help 
 and IrriNinja https://forum.thd.vg/members/nik2005.17344/
 
 Thread Link: https://forum.thd.vg/threads/star-wars-mod.26700/
-Resource Link:
+Resource Link: https://forum.thd.vg/resources/star-wars.531/
 
 What's Implemented;
 Retextures
